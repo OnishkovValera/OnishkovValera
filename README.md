@@ -5,4 +5,4 @@
 
 Думаю об изучении kotlin/scala или golang, но пока нет времени на это
 
-[Резюме](https://drive.google.com/file/d/1RGVSjqpOliiJP7vbivmTEglH63Gf1ybF/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1cMhx_pjA_moiggxYMPsioiCa3lJpq6On/view?usp=sharing)
