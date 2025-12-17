@@ -3,6 +3,4 @@
 
 Рабочий стек - Java\Kotlin+Spring+Postgres
 
-Думаю об изучении golang, но пока нет времени на это
-
 [Резюме](https://drive.google.com/file/d/1cMhx_pjA_moiggxYMPsioiCa3lJpq6On/view?usp=sharing)
