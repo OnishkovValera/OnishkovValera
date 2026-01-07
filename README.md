@@ -3,4 +3,4 @@
 
 Рабочий стек - Java\Kotlin+Spring+Postgres
 
-[Резюме](https://drive.google.com/file/d/1cMhx_pjA_moiggxYMPsioiCa3lJpq6On/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1AB2dwSnRXoNYZ6NeUxj8Qu2HoRUKxef6/view?usp=sharing)
