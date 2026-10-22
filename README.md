@@ -1,6 +1,6 @@
-## Всем привет, меня зовут Валера
-##### На данный момент учусь в ИТМО на четвертом курсе программной инженерии. Тут находятся репозитории с моими проектами и лабами, а так же информация по профилю.
+## Hello everyone I'm Valerii
+##### Currently I'm pursuing master's degree at ITMO university in Faculty of Big data and machine leraning.
 
-Рабочий стек - Java\Kotlin+Spring+Postgres
+Working stack: Codex + any programming language (java/kotlin/go developer in big tech)
 
-[Резюме](https://drive.google.com/file/d/1INNaE3vQXaNlDRg67iGcbfgnDFmPQzMD/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1INNaE3vQXaNlDRg67iGcbfgnDFmPQzMD/view?usp=sharing)
