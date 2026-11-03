@@ -3,4 +3,4 @@
 
 Working stack: Codex + any programming language (java/kotlin/go developer in big tech)
 
-[Resume](https://drive.google.com/file/d/1INNaE3vQXaNlDRg67iGcbfgnDFmPQzMD/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/17az2_K7h3mPs-p77JsTsWnQFH75Z3faU/view?usp=sharing)
